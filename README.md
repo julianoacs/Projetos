@@ -3,7 +3,7 @@
 
 * Repositorio GitHub para iniciantes. [Clique Aqui](https://github.com/julianoacs/100_Exercises)
   * Repositório contem uma lista com mais de 80 exercícios, para treinar sua lógica de programação em Linguagem **Java**.
-* JoKenPo. [Clique Aqui](https://github.com/julianoacs/Projetos/tree/main/JoKenPo)
-  * Jogo JoKenPo (Pedra, Papel ou Tesoura)
+* Jogo JoKenPo. [Clique Aqui](https://github.com/julianoacs/Projetos/tree/main/JoKenPo)
+  * JoKenPo (Pedra, Papel e Tesoura), criado em Java.
   
 <hr>
