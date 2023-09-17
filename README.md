@@ -1,7 +1,7 @@
 <h3 align="center">Portfólio Juliano Silva</h3>
 <hr>
 
-* Repositorio GitHub para iniciantes. [Clique Aqui](https://github.com/julianoacs/100_Exercises)
+* Repositório GitHub para iniciantes. [Clique Aqui](https://github.com/julianoacs/100_Exercises)
   * Repositório contem uma lista com mais de 80 exercícios, para treinar sua lógica de programação em Linguagem **Java**.
 * Jogo JoKenPo. [Clique Aqui](https://github.com/julianoacs/Projetos/tree/main/JoKenPo)
   * JoKenPo (Pedra, Papel e Tesoura), criado em Java.
