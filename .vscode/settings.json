@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "JoKenPo/JoKenPo_em_Swing/src",
+        "JoKenPo/JoKenPo_em_Java/src",
+        "demo/src/main/java/com/example/demo"
+    ]
+}

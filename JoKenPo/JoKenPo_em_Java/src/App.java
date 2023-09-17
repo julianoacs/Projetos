@@ -43,5 +43,6 @@ class App {
     } else {
         System.out.println("Computador Ganhou");
     }
+    keyboard.close();
     }
 }
