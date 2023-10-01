@@ -1,4 +1,4 @@
-<h3 align="center">Portfólio Juliano Silva</h3>
+<h3 align="center">Juliano Silva</h3>
 <hr>
 
 * Jogo JoKenPo. [Clique Aqui](https://github.com/julianoacs/Projetos/tree/main/JoKenPo)
